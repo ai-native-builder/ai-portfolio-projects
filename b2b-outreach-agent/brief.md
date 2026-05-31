@@ -1,7 +1,7 @@
 # Project: B2B Outreach Agent
 
 **Category:** Agent / Automation  
-**Company:** Anonymised — a multi-site London hospitality group  
+**Company:** Humble Group (Humble Grape + Vivat Bacchus)  
 
 ---
 
@@ -10,6 +10,10 @@
 A founder-led hospitality business wants to grow its B2B customer base — corporate bookings, private events, local business accounts.
 
 Their current outreach: manual. Someone googles local businesses, copies contact details into a spreadsheet, writes an email, sends it. Slow, inconsistent, unscalable.
+
+From their job posting:
+
+> *"A hyper-personalised outbound outreach agent for local B2B prospecting, scraping Google Maps, enriching leads, verifying emails, and crafting bespoke messages for every recipient."*
 
 They want an agent that does this:
 - Finds relevant local businesses
@@ -20,6 +24,9 @@ They want an agent that does this:
 That's it. No data provided. No tooling specified. No pipeline defined.
 
 Your job is to figure out what to build and ship something that actually works.
+
+- Company: [humblegrape.co.uk](https://www.humblegrape.co.uk/)
+- Job posting: [AI & Automation Lead](https://humblegrape.teamtailor.com/jobs/7622691-ai-automation-lead) (full JD saved in [`job-description.md`](./job-description.md))
 
 ---
 

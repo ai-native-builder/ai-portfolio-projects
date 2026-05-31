@@ -6,15 +6,11 @@ Real briefs. Real problems. Build them to get hired.
 
 ## Why This Exists
 
-The AI-native hiring market is broken in a specific way.
+Founders want builders who ship with AI. Job descriptions still ask for CS degrees and five years of experience. HR writes the JD. The founder does the interview. They're looking for completely different things.
 
-Founders know what they want: builders who can sit down, use AI tools properly, and ship a real MVP in days. But the job descriptions still say "5+ years experience", "CS degree required", "software developer". HR writes the JD. The founder interviews. They're looking for completely different things.
+[AI Native Builder](https://www.ai-native-builder.com/) is a job board that cuts through that noise — real roles for people who build and ship with AI.
 
-Builders waste hours filtering noise. Startups struggle to find people who can actually ship.
-
-That's why [AI Native Builder](https://www.ai-native-builder.com/) exists — a job board for people who build and ship with AI. No degree requirements, no fake "AI" roles that are just normal jobs with ChatGPT in the title.
-
-This repo is the other side of that. The field is narrow and we need more open discussion, more people building and learning from each other. Every project here came from a real company brief — the same ambiguity and open-endedness you'd face in an actual role. Work through them, post your results, and learn from what others built.
+This repo is the practice ground. Every brief came from a real company. Work through them, post your results, and learn from what others built.
 
 ---
 
@@ -35,8 +31,8 @@ This repo is the other side of that. The field is narrow and we need more open d
 |---------|----------|---------|
 | [Ember Coach Hire Booking](./ember-booking/brief.md) | Product / Booking | Ember (public) |
 | [Creative Ops Platform](./creative-ops/brief.md) | Automation / Workflow | Anonymised |
-| [Legal Contract Review Agent](./legal-review-agent/brief.md) | Agent | Anonymised |
-| [B2B Outreach Agent](./b2b-outreach-agent/brief.md) | Agent / Automation | Anonymised |
+| [Legal Contract Review Agent](./legal-review-agent/brief.md) | Agent | PortSwigger |
+| [B2B Outreach Agent](./b2b-outreach-agent/brief.md) | Agent / Automation | Humble Group |
 | [Multi-Agent Orchestration](./multi-agent-orchestration/brief.md) | Agent / Architecture | Anonymised |
 
 ---

@@ -1,7 +1,7 @@
 # Project: Legal Contract Review Agent
 
 **Category:** Agent / Automation  
-**Company:** Anonymised — a B2B software company  
+**Company:** PortSwigger  
 
 ---
 
@@ -11,7 +11,9 @@ A small in-house legal team reviews a steady stream of low-stakes commercial con
 
 Every contract still gets read by a person. The queue is always longer than the day. End of quarter is overwhelming.
 
-Show how AI could help.
+From their application task:
+
+> *"Please show us how AI could help with this. How you choose to approach this is completely up to you."*
 
 That's it. No spec. No sample contracts. No defined output format. No told-you-what-to-build.
 

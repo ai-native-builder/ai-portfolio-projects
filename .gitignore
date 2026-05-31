@@ -27,3 +27,4 @@ venv/
 # Editors
 .vscode/
 .idea/
+.github/
